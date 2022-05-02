@@ -1,1 +1,2 @@
-Esse é um teste do git e do github
+Esse é um teste do git e do github.
+Essa é a segunda linha do teste do git
